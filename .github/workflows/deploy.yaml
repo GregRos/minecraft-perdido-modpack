@@ -14,7 +14,7 @@ jobs:
     - name: minecraft-redeploy via ssh
       uses: garygrossgarten/github-action-ssh@release
       with:
-        command: minecraft-redeploy
+        command: minecraft-update
         host: ${{ secrets.HOST }}
         username: minecraft-modpack
         privateKey: ${{ secrets.PRIVATE_KEY}}
