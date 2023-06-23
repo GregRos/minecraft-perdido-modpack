@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "complementary-reimagined.pw.toml"
-hash = "7f85a0072e022606b9878a98af39512d81f85cd3fec35e864722be074a940c82"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5ade0167c12aa00d6cced218514e6a6531c7c7773a4c1cb79b14a2bc484075dd"
 metafile = true
@@ -21,8 +16,23 @@ hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
 metafile = true
 
 [[files]]
+file = "mods/deathlog.pw.toml"
+hash = "b02739fbdc676c7561a500ad26aa59802b463e08d637d261b247a544f788d585"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-music-updated.pw.toml"
 hash = "c343c263a6a194afe1d080b39b0f071f59bc958a864e1e1cc7150c3b31607b95"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "49a42a2456b0d0024bb61afdfeb279c51d581901fbd59a4d00ff772b206fefaa"
 metafile = true
 
 [[files]]
@@ -81,6 +91,11 @@ hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "d81eac9cff3b173732245547079d6a7f33d3d12a3c00fc89297b24a32a030677"
+metafile = true
+
+[[files]]
 file = "mods/ping-wheel.pw.toml"
 hash = "83d251738ff2103d7105d194c9e00b1871857f133cd8ae9ae9b909260670a06d"
 metafile = true
@@ -101,6 +116,11 @@ hash = "a6d4f386e84ae97df22d92767058eae0c5389d009ca98846de03e829230ac51f"
 metafile = true
 
 [[files]]
+file = "mods/universal-graves.pw.toml"
+hash = "3f62f308477bf21c3dec6644171aa1a53d9fd66696cea10ea3bddf92d9b29d2f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "3b5dc59f5dde44414905f200f09b23c9498598fa795a18adcea6b4821e00f690"
 metafile = true
@@ -116,6 +136,16 @@ hash = "98f92501cb3b7746c702b3cc122f953d55aa3bbc3733d1eb6efa691ecc27c028"
 metafile = true
 
 [[files]]
+file = "resourcepacks/slightly-improved-font.pw.toml"
+hash = "6e24ae778c75cc884458cc506629d9bfd12b5caaf35a9484aa2ecdc1272300f7"
+metafile = true
+
+[[files]]
 file = "shaderpacks/astralex.pw.toml"
 hash = "755719d5dcbf1e941d76d481929624093a8361efbcdbaa42a7c3931e8aa88d6c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "8445f71e1d1a5d5574204382fba1c75b5506ccf07b8a7605f0d810574c113d70"
 metafile = true
