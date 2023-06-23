@@ -1,0 +1,21 @@
+# This workflow logs into a machine via SSH and runs the command `minecraft-redeploy`.
+name: Deploy
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: minecraft-redeploy via ssh
+      uses: garygrossgarten/github-action-ssh@release
+      with:
+        command: minecraft-redeploy
+        host: ${{ secrets.HOST }}
+        username: minecraft-modpack
+        privateKey: ${{ secrets.PRIVATE_KEY}}
+
