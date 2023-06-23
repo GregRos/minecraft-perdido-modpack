@@ -1,58 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/workflows/deploy.yaml"
-hash = "ff030936073b76de5c52fa4335b4550a9fff2018d12d7e8c0c08d656795a6961"
-
-[[files]]
-file = ".idea/compiler.xml"
-hash = "024103750bc1621684b06247f677901297412417683e3aa56107b88e4b696834"
-
-[[files]]
-file = ".idea/encodings.xml"
-hash = "35e068de75a499c0974585f01b4668c56f946dcba3a8238f4c1a5b6a467aa5aa"
-
-[[files]]
-file = ".idea/inspectionProfiles/Project_Default.xml"
-hash = "c0c4ae15269171b429351139f646bbdd8ee4c9a7e1701ad585d636b86f96e1cf"
-
-[[files]]
-file = ".idea/inspectionProfiles/profiles_settings.xml"
-hash = "6172c5997eeb3cd19c9ca2b5b97d6e2983cdd1fa60b2460d7bbb74055edcaa46"
-
-[[files]]
-file = ".idea/jsonSchemas.xml"
-hash = "3ea3c999cab5d71a34b834cf9864876ff1af6e0d725349ad64561875d0de767a"
-
-[[files]]
-file = ".idea/minecraft-perdido-modpack.iml"
-hash = "a334fc692d753db149a3f77168c46441b57f33e1b6ad97aa7f1b3baf2f015823"
-
-[[files]]
-file = ".idea/misc.xml"
-hash = "6f6481799caa8a9edba49109b4fb9bb3c60651aee662fa05f0d255ff9cd28681"
-
-[[files]]
-file = ".idea/modules.xml"
-hash = "bd391ef1c2eeb71559bd9cce3b3aef59edf217fb137c34ac56add0f484fb215c"
-
-[[files]]
-file = ".idea/prettier.xml"
-hash = "10dae45d2fe79534c0aa5eb7bb64e680b9c33133d4f714aa161f204401289393"
-
-[[files]]
-file = ".idea/vcs.xml"
-hash = "62be7e0a7f84ab3c35b4d4bafb890a4951d061eadafde1a10aa3f5d0406db5df"
-
-[[files]]
-file = ".idea/workspace.xml"
-hash = "a689550471c4d0126789bffb77ff3db796dc7ec83d45d074cda8b267cea5a4af"
-
-[[files]]
-file = "README.md"
-hash = "ae84f189ff0e424ec32b997754261e9fc81aab08c0039ed57053003bade3c5be"
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5ade0167c12aa00d6cced218514e6a6531c7c7773a4c1cb79b14a2bc484075dd"
 metafile = true
