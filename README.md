@@ -87,4 +87,21 @@ git clone https://github.com/GregRos/minecraft-perdido-modpack.git
 
 Or something. 
 
-Now you can use packwiz to modify the mods. Have fun.
+Go to the modpack folder, via `cd path/to/minecraft-perdido-modpack`.
+
+Now you can use packwiz to modify the mods. For example, find the slug of a mod on curseforge:
+
+![image-20230624174829056](./assets/image-20230624174829056.png)
+
+And then run:
+
+```
+packwiz curseforge add complementary-shaders
+```
+
+Or remove via:
+
+```
+packwiz remove complementary-shaders
+```
+
