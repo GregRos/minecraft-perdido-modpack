@@ -1,0 +1,13 @@
+name = "Advanced Compass"
+filename = "advancedcompass.fabric.1.20.1-1.2.15.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "18e61faa00e3ee11316c257ef9818bbb5f25c732"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4589753
+project-id = 461424

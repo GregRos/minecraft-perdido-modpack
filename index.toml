@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/advanced-compass.pw.toml"
+hash = "37c7032bc7896af2f5f52ff3b812b8e11d8a0adb96ba1812bcd2d5257de2718f"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5ade0167c12aa00d6cced218514e6a6531c7c7773a4c1cb79b14a2bc484075dd"
 metafile = true
@@ -8,6 +13,16 @@ metafile = true
 [[files]]
 file = "mods/better-combat.pw.toml"
 hash = "2f19d96faee56e8d2259cee0e5a6c38a72f7b4eb6feaaa6a5024d20a7cfb36f4"
+metafile = true
+
+[[files]]
+file = "mods/better-fps-render-distance-fabric.pw.toml"
+hash = "f6e4927de0ad7139d6ed6e4e2f314dde649bd492a91098e574a1163701a9f239"
+metafile = true
+
+[[files]]
+file = "mods/better-ping-display-fabric.pw.toml"
+hash = "3c9575df506c2514c9c5e162c55dc5d5ff4a85bc50baf0c71ccbb5fe8a5105bc"
 metafile = true
 
 [[files]]
@@ -23,6 +38,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-music-updated.pw.toml"
 hash = "c343c263a6a194afe1d080b39b0f071f59bc958a864e1e1cc7150c3b31607b95"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-view-fabric.pw.toml"
+hash = "d9199e3e1d0c431a4fac4b7232718cf2b9fdc17d231471c351dd9090f16c551a"
 metafile = true
 
 [[files]]
@@ -43,6 +63,11 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
+metafile = true
+
+[[files]]
+file = "mods/farsight-fabric.pw.toml"
+hash = "825458a5e2a5ffe04e07e92643be57bdbef5861a6670fa996bf0b6a5a10cba9e"
 metafile = true
 
 [[files]]
@@ -106,6 +131,11 @@ hash = "a3d67082a95f70155d68aec25d7ffba8a7c7bc48b342529e52005ddfc76f11ae"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "12a668e9658d83888e135265ca869dc44314b122fd104cc9ede83a5bd495ae89"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
 metafile = true
@@ -128,36 +158,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/epic-adventures.pw.toml"
 hash = "9da1c8f35a2992a6b0c2e2377adc3037784694884b92a54ba9efb3f9b503330c"
-metafile = true
-
-[[files]]
-file = "resourcepacks/meinekraft-fanmade.pw.toml"
-hash = "aa2010d4b9bd608a7d46a44e8b29f0c8ddf943b4006d987d929d4f6868981567"
-metafile = true
-
-[[files]]
-file = "resourcepacks/modernarch-1-17-1-19-3-128-256-512-1024.pw.toml"
-hash = "268c2cbb788664488aaa98edb421daa407e320b5313a9bb76d717c343b212258"
-metafile = true
-
-[[files]]
-file = "resourcepacks/newdefaultplus.pw.toml"
-hash = "7eeb3c2726769d346e9a8423222cbad4a00c5d35bc1206eb2022343c51f22b45"
-metafile = true
-
-[[files]]
-file = "resourcepacks/patrix-32x.pw.toml"
-hash = "b4c71f72afcb660519677e4881c317583710dfc09113cad05e1151f9875bfea7"
-metafile = true
-
-[[files]]
-file = "resourcepacks/primes-hd-textures.pw.toml"
-hash = "d934d77cb8dbe1a7344c4f9d728d5b600b16f32da69c3562beaeedda775b18d7"
-metafile = true
-
-[[files]]
-file = "resourcepacks/rotrblocks.pw.toml"
-hash = "409a11c02a976e954f55537fd19bf0faf48b6b2c06d9fe4b36973520e32f15d0"
 metafile = true
 
 [[files]]
