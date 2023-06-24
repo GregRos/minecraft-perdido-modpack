@@ -6,6 +6,11 @@ hash = "37c7032bc7896af2f5f52ff3b812b8e11d8a0adb96ba1812bcd2d5257de2718f"
 metafile = true
 
 [[files]]
+file = "mods/appleskin.pw.toml"
+hash = "0f106ef1d77c5e213339b6ab09a2efc997026eea21f49f80a66260cf5b89aed0"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "5ade0167c12aa00d6cced218514e6a6531c7c7773a4c1cb79b14a2bc484075dd"
 metafile = true
@@ -26,8 +31,23 @@ hash = "3c9575df506c2514c9c5e162c55dc5d5ff4a85bc50baf0c71ccbb5fe8a5105bc"
 metafile = true
 
 [[files]]
+file = "mods/better-village-fabric.pw.toml"
+hash = "b0cd8fecad2a67ef974a9b0f42e9129b69ce01c4e458b99210aa63f3ad0c317c"
+metafile = true
+
+[[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "8d24e0360ebc6dbfed89d0937fd1e9810f18aba2ebf5d609d0a892205ff66ecb"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
+hash = "88eecbb9eafdf2eb226c594a714f305e71186acdc79a2fa2deb78cd91b74d92a"
+metafile = true
+
+[[files]]
+file = "mods/controlling.pw.toml"
+hash = "37dbe5db8e3e61d53a00b8613d9256e8cad353cfdad8fd5d70352f9f5a4d2dfe"
 metafile = true
 
 [[files]]
@@ -57,7 +77,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b92a08e1bcd540e972238d9744b2b85df361df4eeaeeaec993be62c33507054a"
+hash = "edceb4f1caea66e9bd4d26b775f5ab4f01542c6564a2806286c06ddb316eaca6"
 metafile = true
 
 [[files]]
@@ -96,6 +116,16 @@ hash = "4ebfb889d2b8773675ad26b43796721bf96597091fb52e988560fc761dbdbbe8"
 metafile = true
 
 [[files]]
+file = "mods/library-ferret-fabric.pw.toml"
+hash = "492487b37012b88c37d3c4a8d5c09b9935720d03956d0da5b62053c848ee737a"
+metafile = true
+
+[[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "3a82c08c74d69af0bc30a682da43945005455162276f60efdc3eb5b62d747499"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
 metafile = true
@@ -103,6 +133,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "5498b1db0081867fce31ca1eea88a224565b3142205a8d0082e8b1761faeeefd"
+metafile = true
+
+[[files]]
+file = "mods/nameplate.pw.toml"
+hash = "efe0d81924d7447b3854c3c69ad256a6543d049f52607c48d512612f21c087f5"
 metafile = true
 
 [[files]]
@@ -131,6 +166,21 @@ hash = "12a668e9658d83888e135265ca869dc44314b122fd104cc9ede83a5bd495ae89"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "c39f80216f7f84dd113f80ee1877733db7dcfc94b6887e8e213fe62ebaa95d04"
+metafile = true
+
+[[files]]
+file = "mods/skin-layers-3d.pw.toml"
+hash = "1610d0f452a85a69e3cf65ac6a363dd7d1801439cdc96b5f20e1279eac8fb6fc"
+metafile = true
+
+[[files]]
+file = "mods/smooth-chunk-save.pw.toml"
+hash = "568a27fed8c9b59765d240945215f2cc23e3aaefdbb2fc999c69f224e8615d2d"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
 metafile = true
@@ -141,8 +191,18 @@ hash = "a6d4f386e84ae97df22d92767058eae0c5389d009ca98846de03e829230ac51f"
 metafile = true
 
 [[files]]
+file = "mods/this-rocks.pw.toml"
+hash = "bcb953089284ac3c017e6a240c4bafd0af0a2d3b3e15e1304ba2d3dc2a413fec"
+metafile = true
+
+[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "3f62f308477bf21c3dec6644171aa1a53d9fd66696cea10ea3bddf92d9b29d2f"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "e27d63cc5f98c0c63d35454fdabe36c0e6ca4f7df7a227eaef6ed6fd08683787"
 metafile = true
 
 [[files]]
@@ -158,11 +218,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
 hash = "3c150011a956ccde3d6a26fd4b5f0b1fd09a1f0b8b9123ded097506174c06ca5"
-metafile = true
-
-[[files]]
-file = "shaderpacks/astralex.pw.toml"
-hash = "755719d5dcbf1e941d76d481929624093a8361efbcdbaa42a7c3931e8aa88d6c"
 metafile = true
 
 [[files]]
