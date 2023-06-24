@@ -1,0 +1,13 @@
+name = "rotrBLOCKS 128/256x"
+filename = "rotrBLOCKS V43 1.20.1-1.13 256x (OPEN ME).zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8731ebcc9f545cb1c27dde989eabbc5ee01b881f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4592047
+project-id = 451763

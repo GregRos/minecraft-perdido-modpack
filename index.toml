@@ -121,18 +121,23 @@ hash = "3f62f308477bf21c3dec6644171aa1a53d9fd66696cea10ea3bddf92d9b29d2f"
 metafile = true
 
 [[files]]
+file = "resourcepacks/dandelion-x.pw.toml"
+hash = "948238451cab9a0401c460e0bf14bf2c7d2303e8bde6ef36329c4532701de436"
+metafile = true
+
+[[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "3b5dc59f5dde44414905f200f09b23c9498598fa795a18adcea6b4821e00f690"
 metafile = true
 
 [[files]]
-file = "resourcepacks/motschens-better-leaves.pw.toml"
-hash = "7a813714e0164862476829f0d36087842f999aee45a9fd1872e3529f241c2742"
+file = "resourcepacks/newdefaultplus.pw.toml"
+hash = "7eeb3c2726769d346e9a8423222cbad4a00c5d35bc1206eb2022343c51f22b45"
 metafile = true
 
 [[files]]
-file = "resourcepacks/pixlli.pw.toml"
-hash = "98f92501cb3b7746c702b3cc122f953d55aa3bbc3733d1eb6efa691ecc27c028"
+file = "resourcepacks/rotrblocks.pw.toml"
+hash = "2822810518fc3c23b69b5e3198cfa549b8f5692413a808c5baf115dca6e4c204"
 metafile = true
 
 [[files]]
