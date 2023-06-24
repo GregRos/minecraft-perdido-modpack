@@ -66,11 +66,6 @@ hash = "b2b0ad206637c53e64311185758dd34cb1871890e9b70e843eee5c4d085426be"
 metafile = true
 
 [[files]]
-file = "mods/farsight-fabric.pw.toml"
-hash = "4d35b56c59abe03e9837764d61282d7d02a339218c2f51dd733aaf5a45256809"
-metafile = true
-
-[[files]]
 file = "mods/foodeffecttooltips.pw.toml"
 hash = "91f195b8e25d9dc9b932993476f2c1f9e9c6a8e9368668325b40e336a8d0f5d7"
 metafile = true
@@ -168,6 +163,11 @@ metafile = true
 [[files]]
 file = "shaderpacks/astralex.pw.toml"
 hash = "755719d5dcbf1e941d76d481929624093a8361efbcdbaa42a7c3931e8aa88d6c"
+metafile = true
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "ef5060e4fee094045e79fad89880359d0f3ad6042a63c74314adde206f8f208c"
 metafile = true
 
 [[files]]
