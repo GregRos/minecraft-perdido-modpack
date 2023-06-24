@@ -136,11 +136,6 @@ hash = "5498b1db0081867fce31ca1eea88a224565b3142205a8d0082e8b1761faeeefd"
 metafile = true
 
 [[files]]
-file = "mods/nameplate.pw.toml"
-hash = "efe0d81924d7447b3854c3c69ad256a6543d049f52607c48d512612f21c087f5"
-metafile = true
-
-[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "15bbdb7f98ae7148b79b69408488dd03016ac89fe647b5396417a8ba4f968df0"
 metafile = true
