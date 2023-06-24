@@ -1,0 +1,13 @@
+name = "Prime's HD Textures"
+filename = "Prime's HD Textures (Free).zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f13fa3958fb40186ddd27cca7c1aab0ec5b1360f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4572107
+project-id = 471167
