@@ -1,0 +1,13 @@
+name = "Epic Adventures"
+filename = "1§lEpic Adventures.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bf0bbf955fb61f0ec1ab28bb04ec799f6dab2667"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4572121
+project-id = 406771

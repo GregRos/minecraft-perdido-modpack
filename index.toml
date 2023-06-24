@@ -126,13 +126,28 @@ hash = "3b5dc59f5dde44414905f200f09b23c9498598fa795a18adcea6b4821e00f690"
 metafile = true
 
 [[files]]
+file = "resourcepacks/epic-adventures.pw.toml"
+hash = "0feb9fb8962d434c38cf696ac0d4f64b892ff140d6f7151755514a6201bd7953"
+metafile = true
+
+[[files]]
 file = "resourcepacks/meinekraft-fanmade.pw.toml"
 hash = "aa2010d4b9bd608a7d46a44e8b29f0c8ddf943b4006d987d929d4f6868981567"
 metafile = true
 
 [[files]]
+file = "resourcepacks/modernarch-1-17-1-19-3-128-256-512-1024.pw.toml"
+hash = "268c2cbb788664488aaa98edb421daa407e320b5313a9bb76d717c343b212258"
+metafile = true
+
+[[files]]
 file = "resourcepacks/newdefaultplus.pw.toml"
 hash = "7eeb3c2726769d346e9a8423222cbad4a00c5d35bc1206eb2022343c51f22b45"
+metafile = true
+
+[[files]]
+file = "resourcepacks/patrix-32x.pw.toml"
+hash = "b4c71f72afcb660519677e4881c317583710dfc09113cad05e1151f9875bfea7"
 metafile = true
 
 [[files]]
