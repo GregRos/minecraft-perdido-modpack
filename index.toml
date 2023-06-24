@@ -171,11 +171,6 @@ hash = "c39f80216f7f84dd113f80ee1877733db7dcfc94b6887e8e213fe62ebaa95d04"
 metafile = true
 
 [[files]]
-file = "mods/skin-layers-3d.pw.toml"
-hash = "1610d0f452a85a69e3cf65ac6a363dd7d1801439cdc96b5f20e1279eac8fb6fc"
-metafile = true
-
-[[files]]
 file = "mods/smooth-chunk-save.pw.toml"
 hash = "568a27fed8c9b59765d240945215f2cc23e3aaefdbb2fc999c69f224e8615d2d"
 metafile = true
