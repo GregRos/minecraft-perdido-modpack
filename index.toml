@@ -17,7 +17,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-fps-render-distance-fabric.pw.toml"
-hash = "f6e4927de0ad7139d6ed6e4e2f314dde649bd492a91098e574a1163701a9f239"
+hash = "cbfaf3d17ec6ce3bf041cbc4b53996a5d21cbb1a62973eea7d8edac27a004c9f"
 metafile = true
 
 [[files]]
@@ -42,7 +42,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-view-fabric.pw.toml"
-hash = "d9199e3e1d0c431a4fac4b7232718cf2b9fdc17d231471c351dd9090f16c551a"
+hash = "65cc944837e27ed928f8cc16902139390bdef6b28fb2a26cb83a9012a485bfbc"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/farsight-fabric.pw.toml"
-hash = "825458a5e2a5ffe04e07e92643be57bdbef5861a6670fa996bf0b6a5a10cba9e"
+hash = "4d35b56c59abe03e9837764d61282d7d02a339218c2f51dd733aaf5a45256809"
 metafile = true
 
 [[files]]
