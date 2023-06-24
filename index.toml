@@ -131,11 +131,6 @@ hash = "3a82c08c74d69af0bc30a682da43945005455162276f60efdc3eb5b62d747499"
 metafile = true
 
 [[files]]
-file = "mods/mob-plaques.pw.toml"
-hash = "2acb890e9e7ccedfcf405d9f9b60a8c07f3245a36cb71d5db90d76b2fe2fb2e6"
-metafile = true
-
-[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
 metafile = true
@@ -168,11 +163,6 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "12a668e9658d83888e135265ca869dc44314b122fd104cc9ede83a5bd495ae89"
-metafile = true
-
-[[files]]
-file = "mods/puzzles-lib.pw.toml"
-hash = "56c3333dcdfe68eeb3b76976b9eb6c838e85de210f5be2867b80e056bc727def"
 metafile = true
 
 [[files]]
