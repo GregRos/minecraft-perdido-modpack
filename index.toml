@@ -121,11 +121,6 @@ hash = "3f62f308477bf21c3dec6644171aa1a53d9fd66696cea10ea3bddf92d9b29d2f"
 metafile = true
 
 [[files]]
-file = "resourcepacks/dandelion-x.pw.toml"
-hash = "948238451cab9a0401c460e0bf14bf2c7d2303e8bde6ef36329c4532701de436"
-metafile = true
-
-[[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "3b5dc59f5dde44414905f200f09b23c9498598fa795a18adcea6b4821e00f690"
 metafile = true
