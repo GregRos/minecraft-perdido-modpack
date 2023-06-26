@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/ambientsounds.pw.toml"
-hash = "08de17a39f3537ba1388e4ca3897b53eabab502cf9284178c7aa51641c766bbf"
+hash = "8b4ca10ad473da4e2a003b731cf0a306342b57416b449a6acb43bc1ff3d40e02"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/icons.pw.toml"
-hash = "83a7ff5f6b3ac58f29361db639e21002289bea21a0eb112b2fbcda4c6c291201"
+hash = "99f046bdbea3e44ba48d3d64b2e16f833a9971f2061806defadc70d9c0cad12a"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/unity-dark-edition.pw.toml"
-hash = "11f099eacf005e1e5ef892bb41d5cc794f7980ce67d95047ad3d2d9c64016c78"
+hash = "9d976002ed03440ea112623b9d0c7400ce8311ff2c10f0ceb1e4e62a54038eba"
 metafile = true
 
 [[files]]
