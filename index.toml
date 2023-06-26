@@ -21,6 +21,11 @@ hash = "5ade0167c12aa00d6cced218514e6a6531c7c7773a4c1cb79b14a2bc484075dd"
 metafile = true
 
 [[files]]
+file = "mods/areas.pw.toml"
+hash = "631e4c2807051d3874c271dc1f7bf017389e063ec37cac976996cbdeaa1565d9"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "2f19d96faee56e8d2259cee0e5a6c38a72f7b4eb6feaaa6a5024d20a7cfb36f4"
 metafile = true
@@ -43,6 +48,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "88eecbb9eafdf2eb226c594a714f305e71186acdc79a2fa2deb78cd91b74d92a"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "5762821023a5dcae59dcd54e28e498781662257b727f06f76176693995281791"
 metafile = true
 
 [[files]]
@@ -221,6 +231,11 @@ hash = "e27d63cc5f98c0c63d35454fdabe36c0e6ca4f7df7a227eaef6ed6fd08683787"
 metafile = true
 
 [[files]]
+file = "mods/you-shall-not-spawn.pw.toml"
+hash = "f5b2bb4a062ac5a6ea4bfebb8fea0c254320088241876dae3c15f3def0cf11d7"
+metafile = true
+
+[[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "3b5dc59f5dde44414905f200f09b23c9498598fa795a18adcea6b4821e00f690"
 metafile = true
@@ -233,6 +248,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/icons.pw.toml"
 hash = "99f046bdbea3e44ba48d3d64b2e16f833a9971f2061806defadc70d9c0cad12a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/round-trees.pw.toml"
+hash = "689bb38115f4bf8aa5cc3bdac0963220ba5ba9e90cbf0c33656bf50c0fa429bd"
 metafile = true
 
 [[files]]

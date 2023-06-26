@@ -1,0 +1,13 @@
+name = "You Shall Not Spawn!"
+filename = "YSNS-Fabric_Quilt-MC1.20-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EjXcpmEA/versions/sRUWI3ip/YSNS-Fabric_Quilt-MC1.20-1.0.4.jar"
+hash-format = "sha1"
+hash = "c6ab26bb24eb5fb3a4611cd133a0a64e8b682735"
+
+[update]
+[update.modrinth]
+mod-id = "EjXcpmEA"
+version = "sRUWI3ip"
