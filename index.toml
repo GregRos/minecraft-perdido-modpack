@@ -6,6 +6,11 @@ hash = "37c7032bc7896af2f5f52ff3b812b8e11d8a0adb96ba1812bcd2d5257de2718f"
 metafile = true
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "08de17a39f3537ba1388e4ca3897b53eabab502cf9284178c7aa51641c766bbf"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0f106ef1d77c5e213339b6ab09a2efc997026eea21f49f80a66260cf5b89aed0"
 metafile = true
@@ -46,6 +51,11 @@ hash = "37dbe5db8e3e61d53a00b8613d9256e8cad353cfdad8fd5d70352f9f5a4d2dfe"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "05b470ba1c7c57746853b202a42368fdf6fca6fd960abd9492410876a5ca4f44"
+metafile = true
+
+[[files]]
 file = "mods/deathlog.pw.toml"
 hash = "b02739fbdc676c7561a500ad26aa59802b463e08d637d261b247a544f788d585"
 metafile = true
@@ -72,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "edceb4f1caea66e9bd4d26b775f5ab4f01542c6564a2806286c06ddb316eaca6"
+hash = "b92a08e1bcd540e972238d9744b2b85df361df4eeaeeaec993be62c33507054a"
 metafile = true
 
 [[files]]
@@ -93,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "36d76f3ac7c8723c0aac2dcbc4c016da967e474721415537a0ad7e0cf02dfbae"
+metafile = true
+
+[[files]]
+file = "mods/hotbarcycle.pw.toml"
+hash = "6ded0f1889def56159f69c5ab9898c4cb487f12b29b6e94f1c91a075a2c9a517"
 metafile = true
 
 [[files]]
@@ -216,8 +231,18 @@ hash = "9da1c8f35a2992a6b0c2e2377adc3037784694884b92a54ba9efb3f9b503330c"
 metafile = true
 
 [[files]]
+file = "resourcepacks/icons.pw.toml"
+hash = "83a7ff5f6b3ac58f29361db639e21002289bea21a0eb112b2fbcda4c6c291201"
+metafile = true
+
+[[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
 hash = "3c150011a956ccde3d6a26fd4b5f0b1fd09a1f0b8b9123ded097506174c06ca5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unity-dark-edition.pw.toml"
+hash = "11f099eacf005e1e5ef892bb41d5cc794f7980ce67d95047ad3d2d9c64016c78"
 metafile = true
 
 [[files]]

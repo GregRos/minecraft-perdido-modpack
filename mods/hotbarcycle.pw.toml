@@ -1,0 +1,13 @@
+name = "HotbarCycle"
+filename = "hotbarcycle-1.1.2+1.20_FABRIC.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/it3li8KI/versions/p6mN4z3Z/hotbarcycle-1.1.2%2B1.20_FABRIC.jar"
+hash-format = "sha1"
+hash = "598e22b26ca433d5c70d79548ba84e92ffb26dc2"
+
+[update]
+[update.modrinth]
+mod-id = "it3li8KI"
+version = "p6mN4z3Z"
