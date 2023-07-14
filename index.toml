@@ -26,6 +26,11 @@ hash = "631e4c2807051d3874c271dc1f7bf017389e063ec37cac976996cbdeaa1565d9"
 metafile = true
 
 [[files]]
+file = "mods/balm-fabric.pw.toml"
+hash = "9be6a9214aabdea3357e9e76d92ee507fa71370269b69e62edc720f3d4a33c47"
+metafile = true
+
+[[files]]
 file = "mods/better-combat.pw.toml"
 hash = "2f19d96faee56e8d2259cee0e5a6c38a72f7b4eb6feaaa6a5024d20a7cfb36f4"
 metafile = true
@@ -92,7 +97,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b92a08e1bcd540e972238d9744b2b85df361df4eeaeeaec993be62c33507054a"
+hash = "3e44d2d79ec00732cfe3ffaa37d4de19ee6642e48915a5bc75d7c77f75d94757"
 metafile = true
 
 [[files]]
@@ -221,6 +226,11 @@ hash = "bcb953089284ac3c017e6a240c4bafd0af0a2d3b3e15e1304ba2d3dc2a413fec"
 metafile = true
 
 [[files]]
+file = "mods/trashslot-fabric-edition.pw.toml"
+hash = "def793598ad28e1b56eab4c7fe326a79a30cff39bd609483cde664bb0db7f582"
+metafile = true
+
+[[files]]
 file = "mods/universal-graves.pw.toml"
 hash = "3f62f308477bf21c3dec6644171aa1a53d9fd66696cea10ea3bddf92d9b29d2f"
 metafile = true
@@ -243,6 +253,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/epic-adventures.pw.toml"
 hash = "9da1c8f35a2992a6b0c2e2377adc3037784694884b92a54ba9efb3f9b503330c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/faithful-64x.pw.toml"
+hash = "f4a591edee7b9e24db0e5118e0c634d60d2736c2898de1a8cffacfab185b9a1a"
 metafile = true
 
 [[files]]
