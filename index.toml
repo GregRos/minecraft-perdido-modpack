@@ -56,6 +56,11 @@ hash = "88eecbb9eafdf2eb226c594a714f305e71186acdc79a2fa2deb78cd91b74d92a"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "1b222f2d73036e0d08be25c3c8c5a77a8454b1f399467ff212d09e936426734e"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "5762821023a5dcae59dcd54e28e498781662257b727f06f76176693995281791"
 metafile = true
@@ -151,6 +156,21 @@ hash = "4ebfb889d2b8773675ad26b43796721bf96597091fb52e988560fc761dbdbbe8"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "22279b3af17f286d2742927a5ce8b1c541904408919b86010e7755b99c78d96a"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "65e3b65aefe602f1c02d6216cfade41b2f2c06d5e7f29f3058c09cd12b966315"
+metafile = true
+
+[[files]]
+file = "mods/let-me-despawn.pw.toml"
+hash = "45d24074ad110c3e83750c6d8ecf3ec97f195e43414b85c418adefdd5bd78595"
+metafile = true
+
+[[files]]
 file = "mods/library-ferret-fabric.pw.toml"
 hash = "492487b37012b88c37d3c4a8d5c09b9935720d03956d0da5b62053c848ee737a"
 metafile = true
@@ -158,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/midnightlib.pw.toml"
 hash = "3a82c08c74d69af0bc30a682da43945005455162276f60efdc3eb5b62d747499"
+metafile = true
+
+[[files]]
+file = "mods/mob-plaques.pw.toml"
+hash = "dd4ffc37444325aa1109c22ed01fb1b9ce35a16981118d24761817236ebf28d2"
 metafile = true
 
 [[files]]
@@ -196,13 +221,18 @@ hash = "12a668e9658d83888e135265ca869dc44314b122fd104cc9ede83a5bd495ae89"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "f1d42ca6149cd1cebe3bf51ad2cb70a31099da15ad8461d84353362f609b36a9"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "c39f80216f7f84dd113f80ee1877733db7dcfc94b6887e8e213fe62ebaa95d04"
 metafile = true
 
 [[files]]
 file = "mods/smooth-chunk-save.pw.toml"
-hash = "568a27fed8c9b59765d240945215f2cc23e3aaefdbb2fc999c69f224e8615d2d"
+hash = "33f4a84790e78ae394e619e4977922d68a91540d801e7c1c49bc074754d86b0f"
 metafile = true
 
 [[files]]
@@ -257,7 +287,12 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/faithful-64x.pw.toml"
-hash = "f4a591edee7b9e24db0e5118e0c634d60d2736c2898de1a8cffacfab185b9a1a"
+hash = "9d1736d4c11635a578721345bba0c529404a0a0147ceca7878bd5525657d6040"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "235486ac327f81c801db0973eca9496fd545db9d9f5b3aee306491dcd180fb38"
 metafile = true
 
 [[files]]
@@ -273,6 +308,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/slightly-improved-font.pw.toml"
 hash = "3c150011a956ccde3d6a26fd4b5f0b1fd09a1f0b8b9123ded097506174c06ca5"
+metafile = true
+
+[[files]]
+file = "resourcepacks/stay-true.pw.toml"
+hash = "84209283dcd07c0fcb4f14c5e579f443d6ff277e18e8b89c2b7dadee0febc41a"
 metafile = true
 
 [[files]]
