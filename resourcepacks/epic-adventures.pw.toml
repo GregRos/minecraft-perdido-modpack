@@ -3,11 +3,11 @@ filename = "§lEpic Adventures.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/HBBWuU4g/versions/wD9WSbHB/%C2%A7lEpic%20Adventures.zip"
+url = "https://cdn.modrinth.com/data/HBBWuU4g/versions/ZIcl5i8Q/%C2%A7lEpic%20Adventures.zip"
 hash-format = "sha1"
-hash = "c35e342ff96cb035a2128c449fae35d73fca2cb8"
+hash = "643d08e68a55bd8d02618dcb28b612118f04679f"
 
 [update]
 [update.modrinth]
 mod-id = "HBBWuU4g"
-version = "wD9WSbHB"
+version = "ZIcl5i8Q"
