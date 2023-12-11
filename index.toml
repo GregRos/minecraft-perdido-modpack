@@ -356,11 +356,6 @@ hash = "92e24a8f89e7091aad6c5258ce66ccb74adaa78f831eb57733683643ae4a6c81"
 metafile = true
 
 [[files]]
-file = "mods/you-shall-not-spawn.pw.toml"
-hash = "22054f8860214dd6fb6f628f7ce9cb8b34c26e6b035c7b2fd8633c9c103fe802"
-metafile = true
-
-[[files]]
 file = "resourcepacks/enhanced-boss-bars.pw.toml"
 hash = "591bda29ea000a2ab9003782f1aa395773e5b8f292d1b7b4c5db4888b1d7de74"
 metafile = true
