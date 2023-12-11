@@ -196,6 +196,11 @@ hash = "a43562b6ac32b70cbd98d6b31e21dffd512a2ae81825c81307a39d911dd36baa"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
+metafile = true
+
+[[files]]
 file = "mods/inventory-hud-forge.pw.toml"
 hash = "5119a0543adb0568199f56f22c883e797f78078a4f8544a3cdf3207f00bf10c6"
 metafile = true
